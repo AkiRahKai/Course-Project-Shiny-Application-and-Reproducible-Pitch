@@ -1,0 +1,12 @@
+name: IrisShinyApp
+title: IrisShinyApp
+username:
+account: rahlkmenon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2984795
+bundleId: 3723762
+url: https://rahlkmenon.shinyapps.io/IrisShinyApp/
+when: 1602327297.39411
+asMultiple: FALSE
+asStatic: FALSE
